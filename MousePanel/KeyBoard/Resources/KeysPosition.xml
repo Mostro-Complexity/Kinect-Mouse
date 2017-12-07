@@ -1,0 +1,1032 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Blanks>
+  <tilde >
+    <!--标点符号：~-->
+    <LeftUp>
+      <XP>-65</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-58</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>~</content>
+  </tilde >
+
+  <exclamation>
+    <!--标点符号：!-->
+    <LeftUp>
+      <XP>-57</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-50</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>!</content>
+  </exclamation>
+
+  <at>
+    <!--标点符号：@-->
+    <LeftUp>
+      <XP>-49</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-42</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>@</content>
+  </at>
+
+  <pound>
+    <!--标点符号：#-->
+    <LeftUp>
+      <XP>-41</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-34</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>#</content>
+  </pound>
+
+  <dollar>
+    <!--标点符号：$-->
+    <LeftUp>
+      <XP>-33</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-26</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>$</content>
+  </dollar>
+
+  <percent>
+    <!--标点符号：%-->
+    <LeftUp>
+      <XP>-25</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-18</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>%</content>
+  </percent>
+
+
+  <xor>
+    <!--标点符号：^-->
+    <LeftUp>
+      <XP>-18</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-11</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>^</content>
+  </xor>
+
+  <and>
+    <!--标点符号：&-->
+    <LeftUp>
+      <XP>-10</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-3</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>&amp;</content>
+  </and>
+
+  <multiply>
+    <!--标点符号：*-->
+    <LeftUp>
+      <XP>-2</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>5</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>*</content>
+  </multiply>
+
+  <openParen>
+    <!--标点符号：(-->
+    <LeftUp>
+      <XP>5</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>12</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>(</content>
+  </openParen>
+
+  <closeParen>
+    <!--标点符号：)-->
+    <LeftUp>
+      <XP>13</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>20</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>)</content>
+  </closeParen>
+
+  <downLine>
+    <!--标点符号：_-->
+    <LeftUp>
+      <XP>21</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>28</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>_</content>
+  </downLine>
+
+  <BackSpace>
+    <!--删除：BackSpace-->
+    <LeftUp>
+      <XP>29</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>40</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>BackSpace</content>
+  </BackSpace>
+
+  <seven>
+    <!--数字键：7-->
+    <LeftUp>
+      <XP>42</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>49</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>7</content>
+  </seven>
+
+  <eight>
+    <!--数字键：8-->
+    <LeftUp>
+      <XP>50</XP>
+      <YP>62</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>57</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>8</content>
+  </eight>
+
+  <nine>
+    <!--数字键：9-->
+    <LeftUp>
+      <XP>58</XP>
+      <YP>63</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>65</XP>
+      <YP>44</YP>
+    </RightDown>
+    <content>9</content>
+  </nine>
+
+  <tab>
+    <!--tab键-->
+    <LeftUp>
+      <XP>-65</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-54</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>tab</content>
+  </tab>
+
+  <Q>
+    <!--字母键： Q-->
+    <LeftUp>
+      <XP>-52</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-45</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>Q</content>
+  </Q>
+
+  <W>
+    <!--字母键： W-->
+    <LeftUp>
+      <XP>-44</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-38</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>W</content>
+  </W>
+
+  <E>
+    <!--字母键： E-->
+    <LeftUp>
+      <XP>-37</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-30</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>E</content>
+  </E>
+
+  <R>
+    <!--字母键： R-->
+    <LeftUp>
+      <XP>-29</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-22</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>R</content>
+  </R>
+
+  <T>
+    <!--字母键： T-->
+    <LeftUp>
+      <XP>-21</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-14</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>T</content>
+  </T>
+
+  <Y>
+    <!--字母键： Y-->
+    <LeftUp>
+      <XP>-13</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-6</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>Y</content>
+  </Y>
+
+  <U>
+    <!--字母键： U-->
+    <LeftUp>
+      <XP>-5</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>2</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>U</content>
+  </U>
+
+  <I>
+    <!--字母键： I-->
+    <LeftUp>
+      <XP>3</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>10</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>I</content>
+  </I>
+
+  <O>
+    <!--字母键： O-->
+    <LeftUp>
+      <XP>11</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>18</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>O</content>
+  </O>
+
+  <P>
+    <!--字母键： P-->
+    <LeftUp>
+      <XP>19</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>24</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>P</content>
+  </P>
+
+  <openCurly>
+    <!--花括号： {-->
+    <LeftUp>
+      <XP>25</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>32</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>{</content>
+  </openCurly>
+
+  <closeCurly>
+    <!--花括号： }-->
+    <LeftUp>
+      <XP>33</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>40</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>}</content>
+  </closeCurly>
+
+  <four>
+    <!--数字键： 4-->
+    <LeftUp>
+      <XP>42</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>49</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>4</content>
+  </four>
+
+  <five>
+    <!--数字键： 5-->
+    <LeftUp>
+      <XP>50</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>57</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>5</content>
+  </five>
+
+  <six>
+    <!--数字键： 6-->
+    <LeftUp>
+      <XP>58</XP>
+      <YP>41</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>65</XP>
+      <YP>23</YP>
+    </RightDown>
+    <content>6</content>
+  </six>
+
+
+  <capslock>
+    <!--大写锁定: caps lock-->
+    <LeftUp>
+      <XP>-65</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-50</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>capslock</content>
+  </capslock>
+
+  <A>
+    <!--字母键： A-->
+    <LeftUp>
+      <XP>-49</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-42</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>A</content>
+  </A>
+
+  <S>
+    <!--字母键： S-->
+    <LeftUp>
+      <XP>-41</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-35</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>S</content>
+  </S>
+
+  <D>
+    <!--字母键： D-->
+    <LeftUp>
+      <XP>-34</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-27</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>D</content>
+  </D>
+
+  <F>
+    <!--字母键： F-->
+    <LeftUp>
+      <XP>-26</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-19</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>F</content>
+  </F>
+
+  <G>
+    <!--字母键： G-->
+    <LeftUp>
+      <XP>-18</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-11</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>G</content>
+  </G>
+
+  <H>
+    <!--字母键： H-->
+    <LeftUp>
+      <XP>-10</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-4</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>H</content>
+  </H>
+
+  <J>
+    <!--字母键： J-->
+    <LeftUp>
+      <XP>-3</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>4</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>J</content>
+  </J>
+
+  <K>
+    <!--字母键： K-->
+    <LeftUp>
+      <XP>5</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>11</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>K</content>
+  </K>
+
+  <L>
+    <!--字母键： L-->
+    <LeftUp>
+      <XP>12</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>19</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>L</content>
+  </L>
+
+  <antiSlash>
+    <!--符号键： \-->
+    <LeftUp>
+      <XP>20</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>26</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>\</content>
+  </antiSlash>
+
+  <enter>
+    <!--命令键： enter-->
+    <LeftUp>
+      <XP>28</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>39</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>enter</content>
+  </enter>
+
+  <one>
+    <!--数字键： 1-->
+    <LeftUp>
+      <XP>42</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>49</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>1</content>
+  </one>
+
+  <two>
+    <!--数字键： 2-->
+    <LeftUp>
+      <XP>50</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>57</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>2</content>
+  </two>
+
+  <three>
+    <!--数字键： 3-->
+    <LeftUp>
+      <XP>58</XP>
+      <YP>20</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>64</XP>
+      <YP>2</YP>
+    </RightDown>
+    <content>3</content>
+  </three>
+
+  <turnUp>
+    <!--命令键： 上翻-->
+    <LeftUp>
+      <XP>-65</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-58</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>turnUp</content>
+  </turnUp>
+
+  <turnDown>
+    <!--命令键： 下翻-->
+    <LeftUp>
+      <XP>-57</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-49</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>turnDown</content>
+  </turnDown>
+
+  <Z>
+    <!--字母键： Z-->
+    <LeftUp>
+      <XP>-48</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-41</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>Z</content>
+  </Z>
+
+  <X>
+    <!--字母键： X-->
+    <LeftUp>
+      <XP>-40</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-33</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>X</content>
+  </X>
+
+  <C>
+    <!--字母键： C-->
+    <LeftUp>
+      <XP>-32</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-25</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>C</content>
+  </C>
+
+  <V>
+    <!--字母键： V-->
+    <LeftUp>
+      <XP>-24</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-17</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>V</content>
+  </V>
+
+  <B>
+    <!--字母键： B-->
+    <LeftUp>
+      <XP>-16</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-9</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>B</content>
+  </B>
+
+  <N>
+    <!--字母键： N-->
+    <LeftUp>
+      <XP>-8</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-1</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>N</content>
+  </N>
+
+  <M>
+    <!--字母键： M-->
+    <LeftUp>
+      <XP>0</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>7</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>M</content>
+  </M>
+
+  <semicolon >
+    <!--符号键： ；-->
+    <LeftUp>
+      <XP>8</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>15</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>;</content>
+  </semicolon >
+
+  <colon>
+    <!--符号键： :-->
+    <LeftUp>
+      <XP>16</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>23</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>:</content>
+  </colon>
+
+  <second>
+    <!--符号键： "-->
+    <LeftUp>
+      <XP>24</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>31</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>&quot;</content>
+  </second >
+
+  <slash>
+    <!--符号键： /-->
+    <LeftUp>
+      <XP>32</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>39</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>/</content>
+  </slash >
+
+  <Zero>
+    <!--数字键： 0-->
+    <LeftUp>
+      <XP>58</XP>
+      <YP>-1</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>64</XP>
+      <YP>-23</YP>
+    </RightDown>
+    <content>0</content>
+  </Zero >
+
+  <plus>
+    <!--符号键： + -->
+    <LeftUp>
+      <XP>-65</XP>
+      <YP>-22</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-58</XP>
+      <YP>-40</YP>
+    </RightDown>
+    <content>+</content>
+  </plus>
+
+  <equal>
+    <!--符号键： = -->
+    <LeftUp>
+      <XP>-57</XP>
+      <YP>-22</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-50</XP>
+      <YP>-40</YP>
+    </RightDown>
+    <content>=</content>
+  </equal >
+
+  <minius>
+    <!--符号键： - -->
+    <LeftUp>
+      <XP>-49</XP>
+      <YP>-22</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-42</XP>
+      <YP>-40</YP>
+    </RightDown>
+    <content>-</content>
+  </minius >
+
+  <question>
+    <!--符号键： ? -->
+    <LeftUp>
+      <XP>-41</XP>
+      <YP>-22</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-34</XP>
+      <YP>-40</YP>
+    </RightDown>
+    <content>?</content>
+  </question>
+
+  <space>
+    <!--符号键： space -->
+    <LeftUp>
+      <XP>-32</XP>
+      <YP>-22</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>7</XP>
+      <YP>-40</YP>
+    </RightDown>
+    <content>space</content>
+  </space>
+
+  <isChinese >
+    <!--符号键： ,-->
+    <LeftUp>
+      <XP>8</XP>
+      <YP>-22</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>15</XP>
+      <YP>-40</YP>
+    </RightDown>
+    <content>,</content>
+  </isChinese >
+
+  <fullStop>
+    <!--符号键： .-->
+    <LeftUp>
+      <XP>16</XP>
+      <YP>-22</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>23</XP>
+      <YP>-40</YP>
+    </RightDown>
+    <content>.</content>
+  </fullStop>
+
+  <less>
+    <!--符号键： <-->
+    <LeftUp>
+      <XP>24</XP>
+      <YP>-22</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>31</XP>
+      <YP>-40</YP>
+    </RightDown>
+    <content>&lt;</content>
+  </less >
+
+  <more>
+    <!--符号键： >-->
+    <LeftUp>
+      <XP>32</XP>
+      <YP>-22</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>39</XP>
+      <YP>-40</YP>
+    </RightDown>
+    <content>&gt;</content>
+  </more >
+
+  <upArrow>
+    <!--符号键： 上箭头-->
+    <LeftUp>
+      <XP>50</XP>
+      <YP>-22</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>57</XP>
+      <YP>-40</YP>
+    </RightDown>
+    <content>upArrow</content>
+  </upArrow>
+
+  <chinese>
+    <!--命令键： 英文输入法-->
+    <LeftUp>
+      <XP>-65</XP>
+      <YP>-53</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-51</XP>
+      <YP>-60</YP>
+    </RightDown>
+    <content>english</content>
+  </chinese>
+
+  <chinese>
+    <!--命令键： 中文输入法-->
+    <LeftUp>
+      <XP>-65</XP>
+      <YP>-53</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-51</XP>
+      <YP>-60</YP>
+    </RightDown>
+    <content>chinese</content>
+  </chinese>
+
+  <close>
+    <!--命令键： 关闭输入法-->
+    <LeftUp>
+      <XP>-47</XP>
+      <YP>-53</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>-33</XP>
+      <YP>-60</YP>
+    </RightDown>
+    <content>close</content>
+  </close>
+
+  <start>
+    <!--命令键： 开始输入-->
+    <LeftUp>
+      <XP>-30</XP>
+      <YP>-53</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>23</XP>
+      <YP>-60</YP>
+    </RightDown>
+    <content>start</content>
+  </start>
+
+  <closeKey>
+    <!--命令键： 关闭键盘-->
+    <LeftUp>
+      <XP>26</XP>
+      <YP>-53</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>39</XP>
+      <YP>-60</YP>
+    </RightDown>
+    <content>closeKey</content>
+  </closeKey>
+
+  <leftArrow>
+    <!--符号键： 左箭头-->
+    <LeftUp>
+      <XP>42</XP>
+      <YP>-45</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>49</XP>
+      <YP>-60</YP>
+    </RightDown>
+    <content>leftArrow</content>
+  </leftArrow>
+
+  <downArrow>
+    <!--符号键： 下箭头-->
+    <LeftUp>
+      <XP>50</XP>
+      <YP>-45</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>57</XP>
+      <YP>-60</YP>
+    </RightDown>
+    <content>downArrow</content>
+  </downArrow>
+
+  <rightArrow>
+    <!--符号键： 右箭头-->
+    <LeftUp>
+      <XP>58</XP>
+      <YP>-45</YP>
+    </LeftUp>
+    <RightDown>
+      <XP>64</XP>
+      <YP>-60</YP>
+    </RightDown>
+    <content>rightArrow</content>
+  </rightArrow>
+
+</Blanks>

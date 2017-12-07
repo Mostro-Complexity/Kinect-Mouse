@@ -1,0 +1,10 @@
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\Basic\obj\Debug\Basic.Properties.Resources.resources
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\Basic\obj\Debug\Basic.csproj.GenerateResource.Cache
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\Basic\bin\Debug\Basic.dll
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\Basic\bin\Debug\Basic.pdb
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\Basic\bin\Debug\OpenTK.Compatibility.dll
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\Basic\bin\Debug\OpenTK.dll
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\Basic\bin\Debug\OpenTK.GLControl.dll
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\Basic\obj\Debug\Basic.dll
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\Basic\obj\Debug\Basic.pdb
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\Basic\obj\Debug\Basic.csprojResolveAssemblyReference.cache

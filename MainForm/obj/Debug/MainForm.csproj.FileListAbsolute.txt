@@ -1,0 +1,186 @@
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\MainForm.exe.config
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\MainForm.exe
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\MainForm.pdb
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Commons.dll
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Controls.dll
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Models.dll
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\OpenTK.Compatibility.dll
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\OpenTK.dll
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\OpenTK.GLControl.dll
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Commons.pdb
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Commons.xml
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Controls.pdb
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Controls.xml
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Models.pdb
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Models.xml
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\obj\Debug\MainForm.Arrange.resources
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\obj\Debug\MainForm.exe
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\obj\Debug\MainForm.pdb
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Microsoft.Kinect.dll
+D:\RecentHomework\CSharp\2017大创\0 三维框架 - 副本 (2)\MainForm\bin\Debug\Microsoft.Kinect.xml
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\MainForm.exe.config
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\MainForm.exe
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\MainForm.pdb
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\Controls.dll
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\Microsoft.Kinect.dll
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\OpenTK.Compatibility.dll
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\OpenTK.dll
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\OpenTK.GLControl.dll
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\Controls.pdb
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\Controls.xml
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\Microsoft.Kinect.xml
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\obj\Debug\MainForm.Arrange.resources
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\obj\Debug\MainForm.exe
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\obj\Debug\MainForm.pdb
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\MainForm.exe.config
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\MainForm.exe
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\MainForm.pdb
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\Commons.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\Controls.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\Microsoft.Kinect.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.Compatibility.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.GLControl.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\Commons.pdb
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\Commons.xml
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\Controls.pdb
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\Controls.xml
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\bin\Debug\Microsoft.Kinect.xml
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.Arrange.resources
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.exe
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.pdb
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\MainForm.exe.config
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\MainForm.exe
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\MainForm.pdb
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Commons.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Controls.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Microsoft.Kinect.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Models.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\OpenTK.Compatibility.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\OpenTK.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\OpenTK.GLControl.dll
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Commons.pdb
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Commons.xml
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Controls.pdb
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Controls.xml
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Microsoft.Kinect.xml
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Models.pdb
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\bin\Debug\Models.xml
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\obj\Debug\MainForm.Arrange.resources
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\obj\Debug\MainForm.exe
+D:\RecentHomework\CSharp\2017大创\Innovation-of-college - 副本\MainForm\obj\Debug\MainForm.pdb
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\Commons.pdb
+D:\RecentHomework\CSharp\新建文件夹\Innovation-of-college\MainForm\bin\Debug\Commons.dll
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.Arrange.resources
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\MainForm.exe.config
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\MainForm.exe
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\MainForm.pdb
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\Canvas2D.dll
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\Canvas3D.dll
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\KeyBoard.exe
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\Microsoft.Kinect.dll
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.Compatibility.dll
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.dll
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.GLControl.dll
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\Canvas2D.pdb
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\Canvas3D.pdb
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\KeyBoard.pdb
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\KeyBoard.exe.config
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\bin\Debug\Microsoft.Kinect.xml
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.exe
+D:\RecentHomework\2017大创\Innovation-of-college\MainForm\obj\Debug\MainForm.pdb
+F:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+F:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.Arrange.resources
+F:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+F:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+F:\大创\Innovation-of-college\MainForm\bin\Debug\MainForm.exe.config
+F:\大创\Innovation-of-college\MainForm\bin\Debug\MainForm.exe
+F:\大创\Innovation-of-college\MainForm\bin\Debug\MainForm.pdb
+F:\大创\Innovation-of-college\MainForm\bin\Debug\Canvas2D.dll
+F:\大创\Innovation-of-college\MainForm\bin\Debug\Canvas3D.dll
+F:\大创\Innovation-of-college\MainForm\bin\Debug\KeyBoard.exe
+F:\大创\Innovation-of-college\MainForm\bin\Debug\Microsoft.Kinect.dll
+F:\大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.Compatibility.dll
+F:\大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.dll
+F:\大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.GLControl.dll
+F:\大创\Innovation-of-college\MainForm\bin\Debug\Canvas3D.pdb
+F:\大创\Innovation-of-college\MainForm\bin\Debug\KeyBoard.pdb
+F:\大创\Innovation-of-college\MainForm\bin\Debug\KeyBoard.exe.config
+F:\大创\Innovation-of-college\MainForm\bin\Debug\Canvas2D.pdb
+F:\大创\Innovation-of-college\MainForm\bin\Debug\Microsoft.Kinect.xml
+F:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.exe
+F:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.pdb
+E:\大创\Innovation-of-college\MainForm\bin\Debug\MainForm.exe.config
+E:\大创\Innovation-of-college\MainForm\bin\Debug\MainForm.exe
+E:\大创\Innovation-of-college\MainForm\bin\Debug\MainForm.pdb
+E:\大创\Innovation-of-college\MainForm\bin\Debug\Canvas2D.dll
+E:\大创\Innovation-of-college\MainForm\bin\Debug\Canvas3D.dll
+E:\大创\Innovation-of-college\MainForm\bin\Debug\KeyBoard.exe
+E:\大创\Innovation-of-college\MainForm\bin\Debug\Microsoft.Kinect.dll
+E:\大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.Compatibility.dll
+E:\大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.dll
+E:\大创\Innovation-of-college\MainForm\bin\Debug\OpenTK.GLControl.dll
+E:\大创\Innovation-of-college\MainForm\bin\Debug\Canvas3D.pdb
+E:\大创\Innovation-of-college\MainForm\bin\Debug\KeyBoard.pdb
+E:\大创\Innovation-of-college\MainForm\bin\Debug\KeyBoard.exe.config
+E:\大创\Innovation-of-college\MainForm\bin\Debug\Canvas2D.pdb
+E:\大创\Innovation-of-college\MainForm\bin\Debug\Microsoft.Kinect.xml
+E:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.Arrange.resources
+E:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+E:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+E:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.exe
+E:\大创\Innovation-of-college\MainForm\obj\Debug\MainForm.pdb
+E:\Recent\StandAlone\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\Recent\StandAlone\MainForm\obj\Debug\MainForm.Arrange.resources
+E:\Recent\StandAlone\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\Recent\StandAlone\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+E:\Recent\StandAlone\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+E:\Recent\StandAlone\MainForm\obj\Debug\MainForm.exe
+E:\Recent\StandAlone\MainForm\obj\Debug\MainForm.pdb
+E:\Recent\StandAlone\MainForm\bin\Debug\MainForm.exe.config
+E:\Recent\StandAlone\MainForm\bin\Debug\MainForm.exe
+E:\Recent\StandAlone\MainForm\bin\Debug\MainForm.pdb
+E:\Recent\StandAlone\MainForm\bin\Debug\Canvas2D.dll
+E:\Recent\StandAlone\MainForm\bin\Debug\Canvas3D.dll
+E:\Recent\StandAlone\MainForm\bin\Debug\Microsoft.Kinect.dll
+E:\Recent\StandAlone\MainForm\bin\Debug\MousePanel.exe
+E:\Recent\StandAlone\MainForm\bin\Debug\Canvas3D.pdb
+E:\Recent\StandAlone\MainForm\bin\Debug\MousePanel.pdb
+E:\Recent\StandAlone\MainForm\bin\Debug\MousePanel.exe.config
+E:\Recent\StandAlone\MainForm\bin\Debug\Canvas2D.pdb
+E:\Recent\StandAlone\MainForm\bin\Debug\Microsoft.Kinect.xml
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\MainForm.exe
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\MainForm.pdb
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\Canvas2D.dll
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\Canvas3D.dll
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\Microsoft.Kinect.dll
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\MousePanel.exe
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\Canvas3D.pdb
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\MousePanel.pdb
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\MousePanel.exe.config
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\Canvas2D.pdb
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\bin\Debug\Microsoft.Kinect.xml
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\obj\Debug\MainForm.Arrange.resources
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\obj\Debug\MainForm.exe
+C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MainForm\obj\Debug\MainForm.pdb

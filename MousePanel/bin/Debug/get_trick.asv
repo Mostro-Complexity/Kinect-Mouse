@@ -1,0 +1,15 @@
+function get_trick()
+src=textread('hand_and_thumb.txt');
+plot(src(:,1),src(:,2));
+legend('Hand Right');
+hold on
+plot(src(:,9),src(:,10));
+legend('Wrist Right');
+
+plot3(src(:,3),src(:,4),src(L,5));
+legend('Hand Tip');
+hol
+plot3(src(:,6),src(:,7),src(L,8));
+legend('Hand Tip');
+
+end

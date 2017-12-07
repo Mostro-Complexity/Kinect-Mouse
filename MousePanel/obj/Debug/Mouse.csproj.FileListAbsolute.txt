@@ -1,0 +1,17 @@
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\obj\Debug\Mouse.csprojResolveAssemblyReference.cache
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\obj\Debug\KeyBoard.KeyBoardForm.resources
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\obj\Debug\KeyBoard.Properties.Resources.resources
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\obj\Debug\Mouse.csproj.GenerateResource.Cache
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\obj\Debug\Mouse.csproj.CoreCompileInputs.cache
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\obj\Debug\KeyBoard.exe
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\obj\Debug\KeyBoard.pdb
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\bin\Debug\KeyBoard.exe.config
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\bin\Debug\KeyBoard.exe
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\bin\Debug\KeyBoard.pdb
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\bin\Debug\Canvas2D.dll
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\bin\Debug\Commons.dll
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\bin\Debug\Microsoft.Kinect.dll
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\bin\Debug\Canvas2D.pdb
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\bin\Debug\Canvas3D.pdb
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\bin\Debug\Commons.pdb
+C:\Users\brigh\source\repos\WindowsFormsApp1\KeyBoard\bin\Debug\Microsoft.Kinect.xml
