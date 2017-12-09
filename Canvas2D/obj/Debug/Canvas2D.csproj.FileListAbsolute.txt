@@ -80,3 +80,15 @@ C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Canvas2D\
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Canvas2D\obj\Debug\Canvas2D.csproj.GenerateResource.Cache
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Canvas2D\obj\Debug\Canvas2D.dll
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Canvas2D\obj\Debug\Canvas2D.pdb
+E:\Recent\大创\Kinect-Mouse\Canvas2D\bin\Debug\Canvas2D.dll
+E:\Recent\大创\Kinect-Mouse\Canvas2D\bin\Debug\Canvas2D.pdb
+E:\Recent\大创\Kinect-Mouse\Canvas2D\bin\Debug\Canvas3D.dll
+E:\Recent\大创\Kinect-Mouse\Canvas2D\bin\Debug\Commons.dll
+E:\Recent\大创\Kinect-Mouse\Canvas2D\bin\Debug\Microsoft.Kinect.dll
+E:\Recent\大创\Kinect-Mouse\Canvas2D\bin\Debug\Canvas3D.pdb
+E:\Recent\大创\Kinect-Mouse\Canvas2D\bin\Debug\Microsoft.Kinect.xml
+E:\Recent\大创\Kinect-Mouse\Canvas2D\obj\Debug\Canvas2D.Panel2D.resources
+E:\Recent\大创\Kinect-Mouse\Canvas2D\obj\Debug\Canvas2D.csproj.GenerateResource.Cache
+E:\Recent\大创\Kinect-Mouse\Canvas2D\obj\Debug\Canvas2D.csproj.CoreCompileInputs.cache
+E:\Recent\大创\Kinect-Mouse\Canvas2D\obj\Debug\Canvas2D.dll
+E:\Recent\大创\Kinect-Mouse\Canvas2D\obj\Debug\Canvas2D.pdb

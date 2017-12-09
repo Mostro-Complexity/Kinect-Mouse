@@ -62,3 +62,13 @@ C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Commons\o
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Commons\obj\Debug\Commons.csproj.GenerateResource.Cache
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Commons\obj\Debug\Commons.dll
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Commons\obj\Debug\Commons.pdb
+E:\Recent\大创\Kinect-Mouse\Commons\obj\Debug\Commons.csprojResolveAssemblyReference.cache
+E:\Recent\大创\Kinect-Mouse\Commons\obj\Debug\Commons.Properties.Resources.resources
+E:\Recent\大创\Kinect-Mouse\Commons\obj\Debug\Commons.csproj.GenerateResource.Cache
+E:\Recent\大创\Kinect-Mouse\Commons\obj\Debug\Commons.csproj.CoreCompileInputs.cache
+E:\Recent\大创\Kinect-Mouse\Commons\obj\Debug\Commons.dll
+E:\Recent\大创\Kinect-Mouse\Commons\obj\Debug\Commons.pdb
+E:\Recent\大创\Kinect-Mouse\Commons\bin\Debug\Commons.dll
+E:\Recent\大创\Kinect-Mouse\Commons\bin\Debug\Commons.pdb
+E:\Recent\大创\Kinect-Mouse\Commons\bin\Debug\Microsoft.Kinect.dll
+E:\Recent\大创\Kinect-Mouse\Commons\bin\Debug\Microsoft.Kinect.xml

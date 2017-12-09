@@ -68,3 +68,9 @@ C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Canvas3D\
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Canvas3D\obj\Debug\Canvas3D.csproj.GenerateResource.Cache
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Canvas3D\obj\Debug\Canvas3D.dll
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\Canvas3D\obj\Debug\Canvas3D.pdb
+E:\Recent\大创\Kinect-Mouse\Canvas3D\obj\Debug\Canvas3D.csprojResolveAssemblyReference.cache
+E:\Recent\大创\Kinect-Mouse\Canvas3D\obj\Debug\Canvas3D.Panel3D.resources
+E:\Recent\大创\Kinect-Mouse\Canvas3D\obj\Debug\Canvas3D.csproj.GenerateResource.Cache
+E:\Recent\大创\Kinect-Mouse\Canvas3D\obj\Debug\Canvas3D.csproj.CoreCompileInputs.cache
+E:\Recent\大创\Kinect-Mouse\Canvas3D\obj\Debug\Canvas3D.dll
+E:\Recent\大创\Kinect-Mouse\Canvas3D\obj\Debug\Canvas3D.pdb
