@@ -1,0 +1,4 @@
+由于数据单人录制，录制后需要结束程序，所以每个文件的数据的最后一部分是脏的。
+star.txt是画五角星的
+cross.txt是画x形的
+up_down_left_right.txt是画十字形的

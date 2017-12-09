@@ -1,0 +1,53 @@
+clear;
+% star=load('star.txt');
+% star=star(:,9:10);
+% result = [kalman_filter(star(:,1),1e-6,4e-4,star(1,1),1),kalman_filter(star(:,2),1e-6,4e-4,star(2,2),1)];
+% figure
+% title('star');
+% plot(star(:,1),star(:,2));
+% hold on
+% plot(result(:,1),result(:,2));
+% hold off
+% legend('源数据','卡尔曼滤波');
+% 
+% star=load('cross.txt');
+% star=star(:,9:10);
+% result = [kalman_filter(star(:,1),1e-6,4e-4,star(1,1),1),kalman_filter(star(:,2),1e-6,4e-4,star(2,2),1)];
+% figure
+% title('cross');
+% plot(star(:,1),star(:,2));
+% hold on
+% plot(result(:,1),result(:,2));
+% hold off
+% legend('源数据','卡尔曼滤波');
+
+%% 动态显示
+% star=load('cross.txt');
+% star=star(:,9:10);
+% figure
+% for i=1:10:size(star,1)
+%     plot(star(1:i,1),star(1:i,2),'g');
+%     hold on
+%     plot(kalman_filter(star(1:i,1),1e-5,4e-4,star(1,1),1),...
+%         kalman_filter(star(1:i,2),1e-5,4e-4,star(2,2),1),'b');
+%     legend('原数据','卡尔曼滤波后数据');
+%     pause(0.3);
+% end
+
+%% 产生gif
+gen_gif('cross.txt','cross','./gif/cross/')
+gen_gif('star.txt','star','./gif/star/')
+
+%% 卡尔曼单项对比
+% star=load('cross.txt');
+% star=star(:,9:10);
+% figure
+% plot(star(:,1),'g');
+% hold on
+% plot(kalman_filter(star(:,1),7e-6,4e-4,star(1,1),1),'b');
+% hold off
+% grid on
+% xlabel('时间')
+% ylabel('X坐标值')
+% title('运动轨迹X坐标卡尔曼滤波前后对比图');
+% legend('原数据','卡尔曼滤波后数据');
