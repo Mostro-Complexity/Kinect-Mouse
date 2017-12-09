@@ -4,11 +4,10 @@ using System.Diagnostics;
 using System;
 using System.IO;
 using System.Reflection;
+using Commons.Filter;
 
-namespace MousePanel.Controls
-{
-    public class MouseControl : Canvas2D.Controls.BasicControl
-    {
+namespace MousePanel.Controls {
+    public class MouseControl : Canvas2D.Controls.BasicControl {
         private float variance, sensitivity;
         private int hitTimes;
         private Queue<double> track;
@@ -16,6 +15,8 @@ namespace MousePanel.Controls
         StreamWriter streamWriter;
         public delegate void KinectClickEventHandler();
         public event KinectClickEventHandler KinectClickUpEvent, KinectClickDownEvent;
+
+        KalmanFilter kalmanFilter;
 
         /// <summary>
         /// 坐标信息
@@ -43,36 +44,32 @@ namespace MousePanel.Controls
 
         public float Variance { get => variance; set => variance = value; }
 
-        public MouseControl() : base()
-        {
+        public MouseControl() : base() {
             track = new Queue<double>();
             string fileName = DateTime.Now.ToString("yyyy-MM-dd hh-mm-ss") + ".txt";
             sensitivity = 0.0002f;
             thumbRight = new Joint();
             streamWriter = new StreamWriter(fileName);
+            kalmanFilter = new KalmanFilter(1e-6f, 4e-4f);
         }
-        public override void Start()
-        {
+        public override void Start() {
             device.Start();
         }
 
-        public override void Close()
-        {
+        public override void Close() {
             device.Close();
         }
 
-        ~MouseControl()
-        {
+        ~MouseControl() {
             device.Close();
             streamWriter.Close();
         }
 
-        public override void Draw()
-        {
+        public override void Draw() {
             if (atLarge == null) return;
             thumbRight = atLarge[0].Joints[JointType.ThumbRight];
             handRight = atLarge[0].Joints[JointType.HandRight];
-            wristRight = atLarge[0].Joints[JointType.WristRight];
+            wristRight = kalmanFilter.Fetch(atLarge[0].Joints[JointType.WristRight]);//经过滤波处理
             handTipRight = atLarge[0].Joints[JointType.HandTipRight];
 
             dataInfo = string.Format("右手位置：({0},{1})", handRight.Position.X,
@@ -84,10 +81,11 @@ namespace MousePanel.Controls
                 wristRight.Position.X, wristRight.Position.Y);
             //Debug.WriteLine(GetTipDistance(handTipRight, thumbRight));
             GetTrack();
+            Debug.WriteLine("{0} {1}", wristRight.Position.X, wristRight.Position.Y);
+
         }
 
-        public double GetTipDistance(Joint a, Joint b)
-        {
+        public double GetTipDistance(Joint a, Joint b) {
             return Math.Sqrt(
             Convert.ToDouble(
              (a.Position.X - b.Position.X) * (a.Position.X - b.Position.X) +
@@ -98,40 +96,30 @@ namespace MousePanel.Controls
         /// <summary>
         /// 记录轨迹数组
         /// </summary>
-        private void GetTrack(int maxsize = 15)
-        {
-            if (track.Count < maxsize)
-            {
+        private void GetTrack(int maxsize = 15) {
+            if (track.Count < maxsize) {
                 track.Enqueue(GetTipDistance(handTipRight, thumbRight));
                 return;
-            }
-            else
-            {
+            } else {
                 track.Dequeue();
                 track.Enqueue(GetTipDistance(handTipRight, thumbRight));
             }
             int down = 0, up = 0;
-            foreach (var i in track)
-            {
+            foreach (var i in track) {
                 if (i != double.NaN && i > 0.05)
                     up++;
                 if (i == double.NaN || i < 0.05)
                     down++;
 
-                Debug.WriteLine("{0} {1}", down, up);
             }
             //Debug.WriteLine(Convert.ToDouble(counter));
             // 点击条件
-            if (Convert.ToDouble(up) > 0.75 * Convert.ToDouble(maxsize))
-            {
+            if (Convert.ToDouble(up) > 0.75 * Convert.ToDouble(maxsize)) {
                 up = 0;
                 track.Clear();
                 KinectClickUpEvent?.Invoke();
-            }
-            else
-            {
-                if (Convert.ToDouble(down) > 0.75 * Convert.ToDouble(maxsize))
-                {
+            } else {
+                if (Convert.ToDouble(down) > 0.75 * Convert.ToDouble(maxsize)) {
                     Debug.WriteLine("点击次数" + hitTimes);
                     track.Clear();
                     hitTimes += 1;
@@ -139,21 +127,6 @@ namespace MousePanel.Controls
                     down = 0;
                 }
             }
-        }
-
-        private float GetVariance()
-        {
-            float ave = 0, variance = 0;
-            foreach (float i in track)
-            {
-                ave += i;
-            }
-            ave /= track.Count;
-            foreach (float i in track)
-            {
-                variance += (i - ave) * (i - ave) / track.Count;
-            }
-            return variance;
         }
     }
 }

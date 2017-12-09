@@ -72,6 +72,7 @@ namespace MousePanel {
             tempLocation.X = wristLocation.X;
             tempLocation.Y = wristLocation.Y;
             mouseControl.Draw();
+            //  Debug.WriteLine("{0} {1}", wristLocation.X, wristLocation.Y);
         }
 
         private void Control_DrawGame() {
