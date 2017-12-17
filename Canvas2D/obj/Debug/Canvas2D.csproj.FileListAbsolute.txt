@@ -92,3 +92,4 @@ E:\Recent\大创\Kinect-Mouse\Canvas2D\obj\Debug\Canvas2D.csproj.GenerateResourc
 E:\Recent\大创\Kinect-Mouse\Canvas2D\obj\Debug\Canvas2D.csproj.CoreCompileInputs.cache
 E:\Recent\大创\Kinect-Mouse\Canvas2D\obj\Debug\Canvas2D.dll
 E:\Recent\大创\Kinect-Mouse\Canvas2D\obj\Debug\Canvas2D.pdb
+E:\Recent\大创\Kinect-Mouse\Canvas2D\obj\Debug\Canvas2D.csprojResolveAssemblyReference.cache

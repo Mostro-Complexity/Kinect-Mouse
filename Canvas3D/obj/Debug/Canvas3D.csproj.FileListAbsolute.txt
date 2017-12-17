@@ -74,3 +74,11 @@ E:\Recent\大创\Kinect-Mouse\Canvas3D\obj\Debug\Canvas3D.csproj.GenerateResourc
 E:\Recent\大创\Kinect-Mouse\Canvas3D\obj\Debug\Canvas3D.csproj.CoreCompileInputs.cache
 E:\Recent\大创\Kinect-Mouse\Canvas3D\obj\Debug\Canvas3D.dll
 E:\Recent\大创\Kinect-Mouse\Canvas3D\obj\Debug\Canvas3D.pdb
+E:\Recent\大创\Kinect-Mouse\Canvas3D\bin\Debug\Canvas3D.dll
+E:\Recent\大创\Kinect-Mouse\Canvas3D\bin\Debug\Canvas3D.pdb
+E:\Recent\大创\Kinect-Mouse\Canvas3D\bin\Debug\Canvas2D.dll
+E:\Recent\大创\Kinect-Mouse\Canvas3D\bin\Debug\Commons.dll
+E:\Recent\大创\Kinect-Mouse\Canvas3D\bin\Debug\Microsoft.Kinect.dll
+E:\Recent\大创\Kinect-Mouse\Canvas3D\bin\Debug\Canvas2D.pdb
+E:\Recent\大创\Kinect-Mouse\Canvas3D\bin\Debug\Commons.pdb
+E:\Recent\大创\Kinect-Mouse\Canvas3D\bin\Debug\Microsoft.Kinect.xml
