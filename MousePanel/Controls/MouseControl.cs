@@ -6,15 +6,18 @@ using System.IO;
 using System.Reflection;
 using Commons.Filter;
 
-namespace MousePanel.Controls {
-    public class MouseControl : Canvas2D.Controls.BasicControl {
+namespace MousePanel.Controls
+{
+    public class MouseControl : Canvas2D.Controls.BasicControl
+    {
         private float variance, sensitivity;
         private int hitTimes;
         private Queue<double> track;
         Joint thumbRight, handRight, handTipRight, wristRight;
         StreamWriter streamWriter;
         public delegate void KinectClickEventHandler();
-        public event KinectClickEventHandler KinectClickUpEvent, KinectClickDownEvent;
+        public event KinectClickEventHandler KinectClickUpEvent, KinectClickDownEvent,
+            KinectClickUpRightEvent, KinectClickDownRightEvent;
 
         KalmanFilter kalmanFilter;
 
@@ -44,7 +47,8 @@ namespace MousePanel.Controls {
 
         public float Variance { get => variance; set => variance = value; }
 
-        public MouseControl() : base() {
+        public MouseControl() : base()
+        {
             track = new Queue<double>();
             string fileName = DateTime.Now.ToString("yyyy-MM-dd hh-mm-ss") + ".txt";
             sensitivity = 0.0002f;
@@ -52,20 +56,24 @@ namespace MousePanel.Controls {
             streamWriter = new StreamWriter(fileName);
             kalmanFilter = new KalmanFilter(1e-6f, 4e-4f);
         }
-        public override void Start() {
+        public override void Start()
+        {
             device.Start();
         }
 
-        public override void Close() {
+        public override void Close()
+        {
             device.Close();
         }
 
-        ~MouseControl() {
+        ~MouseControl()
+        {
             device.Close();
             streamWriter.Close();
         }
 
-        public override void Draw() {
+        public override void Draw()
+        {
             if (atLarge == null) return;
             thumbRight = atLarge[0].Joints[JointType.ThumbRight];
             handRight = atLarge[0].Joints[JointType.HandRight];
@@ -80,53 +88,11 @@ namespace MousePanel.Controls {
                 thumbRight.Position.X, thumbRight.Position.Y, thumbRight.Position.Z,
                 wristRight.Position.X, wristRight.Position.Y);
             //Debug.WriteLine(GetTipDistance(handTipRight, thumbRight));
-            GetTrack();
             Debug.WriteLine("{0} {1}", wristRight.Position.X, wristRight.Position.Y);
 
         }
 
-        public double GetTipDistance(Joint a, Joint b) {
-            return Math.Sqrt(
-            Convert.ToDouble(
-             (a.Position.X - b.Position.X) * (a.Position.X - b.Position.X) +
-                 (a.Position.Y - b.Position.Y) * (a.Position.Y - b.Position.Y) +
-                 (a.Position.Z - b.Position.Y) * (a.Position.Z - b.Position.Z)));
-        }
 
-        /// <summary>
-        /// 记录轨迹数组
-        /// </summary>
-        private void GetTrack(int maxsize = 15) {
-            if (track.Count < maxsize) {
-                track.Enqueue(GetTipDistance(handTipRight, thumbRight));
-                return;
-            } else {
-                track.Dequeue();
-                track.Enqueue(GetTipDistance(handTipRight, thumbRight));
-            }
-            int down = 0, up = 0;
-            foreach (var i in track) {
-                if (i != double.NaN && i > 0.05)
-                    up++;
-                if (i == double.NaN || i < 0.05)
-                    down++;
 
-            }
-            //Debug.WriteLine(Convert.ToDouble(counter));
-            // 点击条件
-            if (Convert.ToDouble(up) > 0.75 * Convert.ToDouble(maxsize)) {
-                up = 0;
-                track.Clear();
-                KinectClickUpEvent?.Invoke();
-            } else {
-                if (Convert.ToDouble(down) > 0.75 * Convert.ToDouble(maxsize)) {
-                    Debug.WriteLine("点击次数" + hitTimes);
-                    track.Clear();
-                    hitTimes += 1;
-                    KinectClickDownEvent?.Invoke();
-                    down = 0;
-                }
-            }
-        }
     }
 }

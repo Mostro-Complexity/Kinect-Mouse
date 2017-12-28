@@ -5,14 +5,18 @@ using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-namespace MousePanel {
-    public partial class KeyBoardForm : Form {
+namespace MousePanel
+{
+    public partial class KeyBoardForm : Form
+    {
         Point wristLocation, tempLocation;
         Controls.MouseControl mouseControl;
+        GestureCatcher.GestureControl gestureControl;
 
         //结构体布局 本机位置
         [StructLayout(LayoutKind.Sequential)]
-        struct NativeRECT {
+        struct NativeRECT
+        {
             public int left;
             public int top;
             public int right;
@@ -49,22 +53,28 @@ namespace MousePanel {
         //定义变量
         const int AnimationCount = 80;
 
-        public KeyBoardForm() {
+        public KeyBoardForm()
+        {
             InitializeComponent();
             mouseControl = new Controls.MouseControl();
             mouseControl.DrawGameEvent += Control_DrawGame;
-            mouseControl.KinectClickUpEvent += Click_Up;
-            mouseControl.KinectClickDownEvent += Click_Down;
             mouseControl.Start();
             wristLocation = new Point(0, 0);
             tempLocation = new Point(0, 0);
+            gestureControl = new GestureCatcher.GestureControl();
+            gestureControl.KinectClickDownEvent += Click_Down_left;
+            gestureControl.KinectClickUpEvent += Click_Up_left;
+            gestureControl.KinectClickDownRightEvent += Click_Down_right;
+            gestureControl.KinectClickUpRightEvent += Click_Up_right;
         }
 
-        ~KeyBoardForm() {
+        ~KeyBoardForm()
+        {
             mouseControl.Close();
         }
 
-        private void Canvas2D_DrawGame() {
+        private void Canvas2D_DrawGame()
+        {
             wristLocation.X = Convert.ToInt32(mouseControl.WristRight.Position.X * 300);
             wristLocation.Y = Convert.ToInt32(mouseControl.WristRight.Position.Y * 300);
             mouse_event(MouseEventFlag.Move, 10 * (wristLocation.X - tempLocation.X),
@@ -75,17 +85,30 @@ namespace MousePanel {
             //  Debug.WriteLine("{0} {1}", wristLocation.X, wristLocation.Y);
         }
 
-        private void Control_DrawGame() {
+        private void Control_DrawGame()
+        {
             panel2D1.Draw();
             Text = mouseControl.DataInfo;
         }
 
-        private void Click_Down() {
+        private void Click_Down_left()
+        {
             mouse_event(MouseEventFlag.LeftDown, 0, 0, 0, UIntPtr.Zero);
         }
 
-        private void Click_Up() {
+        private void Click_Up_left()
+        {
             mouse_event(MouseEventFlag.LeftUp, 0, 0, 0, UIntPtr.Zero);
+        }
+
+        private void Click_Up_right()
+        {
+            mouse_event(MouseEventFlag.RightUp, 0, 0, 0, UIntPtr.Zero);
+        }
+
+        private void Click_Down_right()
+        {
+            mouse_event(MouseEventFlag.RightDown, 0, 0, 0, UIntPtr.Zero);
         }
     }
 }

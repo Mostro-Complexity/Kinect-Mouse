@@ -1,7 +1,9 @@
 ﻿using System.Diagnostics;
 
-namespace GestureCatcher {
-    public sealed class GestureResultView {
+namespace GestureCatcher
+{
+    public sealed class GestureResultView
+    {
         /// <summary> The body index (0-5) associated with the current gesture detector </summary>
         private int bodyIndex = 0;
 
@@ -21,7 +23,8 @@ namespace GestureCatcher {
         /// <param name="isTracked">True, if the body is currently tracked</param>
         /// <param name="detected">True, if the gesture is currently detected for the associated body</param>
         /// <param name="confidence">Confidence value for detection of the 'Seated' gesture</param>
-        public GestureResultView(int bodyIndex, bool isTracked, bool detected, float confidence) {
+        public GestureResultView(int bodyIndex, bool isTracked, bool detected, float confidence)
+        {
             this.bodyIndex = bodyIndex;
             this.isTracked = isTracked;
             this.detected = detected;
@@ -44,19 +47,27 @@ namespace GestureCatcher {
         /// Confidence value for detection of the discrete gesture
         /// 用于检测离散手势的置信度值
         /// </param>
-        public void UpdateGestureResult(bool isBodyTrackingIdValid, bool isGestureDetected, float detectionConfidence) {
+        public void UpdateGestureResult(bool isBodyTrackingIdValid, bool isGestureDetected, float detectionConfidence)
+        {
             isTracked = isBodyTrackingIdValid;
             confidence = 0.0f;
 
-            if (!isTracked) {
+            if (!isTracked)
+            {
                 detected = false;
                 Debug.WriteLine("Miss");
-            } else {
+
+            }
+            else
+            {
                 detected = isGestureDetected;
-                if (detected) {
+                if (detected)
+                {
                     confidence = detectionConfidence;
                     Debug.WriteLine("Check,value:{0}", confidence);
-                } else {
+                }
+                else
+                {
                     Debug.WriteLine("Uncheck,value:{0}", confidence);
                 }
             }

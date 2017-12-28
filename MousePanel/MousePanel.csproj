@@ -61,8 +61,13 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\MainForm\bin\Debug\Microsoft.Kinect.dll</HintPath>
     </Reference>
-    <Reference Include="OpenTK">
-      <HintPath>..\OpenTK\OpenTK.dll</HintPath>
+    <Reference Include="Microsoft.Kinect.VisualGestureBuilder, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Redist\VGB\x86\Microsoft.Kinect.VisualGestureBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Arrange-master\Arrange-master\OpenTK\OpenTK.dll</HintPath>
     </Reference>
     <Reference Include="OpenTK.Compatibility">
       <HintPath>..\OpenTK\OpenTK.Compatibility.dll</HintPath>
@@ -84,6 +89,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controls\MouseControl.cs" />
+    <Compile Include="GestureCatcher\GestureControl.cs" />
+    <Compile Include="GestureCatcher\GestureDetector.cs" />
+    <Compile Include="GestureCatcher\GestureResultView.cs" />
     <Compile Include="KeyBoardForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +122,9 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Content Include="Stone_Right.gba">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
