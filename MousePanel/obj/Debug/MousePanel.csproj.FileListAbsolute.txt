@@ -49,7 +49,6 @@ C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MousePane
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MousePanel\obj\Debug\MousePanel.exe
 C:\Users\YaoYue\Desktop\Mostro-Kinect-Mouse-master\Kinect-Mouse-master\MousePanel\obj\Debug\MousePanel.pdb
 E:\Recent\大创\Kinect-Mouse\MousePanel\obj\Debug\MousePanel.csprojResolveAssemblyReference.cache
-E:\Recent\大创\Kinect-Mouse\MousePanel\obj\Debug\MousePanel.KeyBoardForm.resources
 E:\Recent\大创\Kinect-Mouse\MousePanel\obj\Debug\MousePanel.Properties.Resources.resources
 E:\Recent\大创\Kinect-Mouse\MousePanel\obj\Debug\MousePanel.csproj.GenerateResource.Cache
 E:\Recent\大创\Kinect-Mouse\MousePanel\obj\Debug\MousePanel.csproj.CoreCompileInputs.cache
@@ -62,7 +61,6 @@ E:\Recent\大创\Kinect-Mouse\MousePanel\bin\Debug\Canvas2D.dll
 E:\Recent\大创\Kinect-Mouse\MousePanel\bin\Debug\Commons.dll
 E:\Recent\大创\Kinect-Mouse\MousePanel\bin\Debug\Microsoft.Kinect.dll
 E:\Recent\大创\Kinect-Mouse\MousePanel\bin\Debug\Canvas2D.pdb
-E:\Recent\大创\Kinect-Mouse\MousePanel\bin\Debug\Canvas3D.pdb
 E:\Recent\大创\Kinect-Mouse\MousePanel\bin\Debug\Commons.pdb
 E:\Recent\大创\Kinect-Mouse\MousePanel\bin\Debug\Microsoft.Kinect.xml
 F:\大创\Kinect-Mouse\MousePanel\bin\Debug\MousePanel.exe.config
@@ -86,3 +84,7 @@ F:\大创\Kinect-Mouse\MousePanel\obj\Debug\MousePanel.exe
 F:\大创\Kinect-Mouse\MousePanel\obj\Debug\MousePanel.pdb
 F:\大创\Kinect-Mouse\MousePanel\bin\Debug\Stone_Right.gba
 F:\大创\Kinect-Mouse\MousePanel\bin\Debug\OpenTK.dll
+E:\Recent\大创\Kinect-Mouse\MousePanel\bin\Debug\Stone_Right.gba
+E:\Recent\大创\Kinect-Mouse\MousePanel\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+E:\Recent\大创\Kinect-Mouse\MousePanel\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+E:\Recent\大创\Kinect-Mouse\MousePanel\obj\Debug\MousePanel.MonitoringForm.resources

@@ -1,5 +1,5 @@
 ﻿namespace MousePanel {
-    partial class KeyBoardForm {
+    partial class MonitoringForm {
         /// <summary>
         /// 必需的设计器变量。
         /// </summary>
@@ -23,7 +23,7 @@
         /// 使用代码编辑器修改此方法的内容。
         /// </summary>
         private void InitializeComponent() {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(KeyBoardForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MonitoringForm));
             this.panel2D1 = new Canvas2D.Panel2D();
             this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel3 = new System.Windows.Forms.ToolStripStatusLabel();

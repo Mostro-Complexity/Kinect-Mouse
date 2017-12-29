@@ -13,7 +13,7 @@ namespace MousePanel {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new KeyBoardForm());
+            Application.Run(new MonitoringForm());
         }
     }
 }

@@ -82,3 +82,5 @@ F:\大创\Kinect-Mouse\Commons\obj\Debug\Commons.csprojResolveAssemblyReference.
 F:\大创\Kinect-Mouse\Commons\obj\Debug\Commons.Properties.Resources.resources
 F:\大创\Kinect-Mouse\Commons\obj\Debug\Commons.csproj.GenerateResource.Cache
 F:\大创\Kinect-Mouse\Commons\obj\Debug\Commons.csproj.CoreCompileInputs.cache
+E:\Recent\大创\Kinect-Mouse\Commons\bin\Debug\Commons.dll.CodeAnalysisLog.xml
+E:\Recent\大创\Kinect-Mouse\Commons\bin\Debug\Commons.dll.lastcodeanalysissucceeded

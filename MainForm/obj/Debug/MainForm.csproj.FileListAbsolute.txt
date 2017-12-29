@@ -225,3 +225,8 @@ F:\大创\Kinect-Mouse\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cach
 F:\大创\Kinect-Mouse\MainForm\obj\Debug\MainForm.exe
 F:\大创\Kinect-Mouse\MainForm\obj\Debug\MainForm.pdb
 F:\大创\Kinect-Mouse\MainForm\bin\Debug\Stone_Right.gba
+E:\Recent\大创\Kinect-Mouse\MainForm\bin\Debug\Stone_Right.gba
+E:\Recent\大创\Kinect-Mouse\MainForm\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+E:\Recent\大创\Kinect-Mouse\MainForm\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+E:\Recent\大创\Kinect-Mouse\MainForm\bin\Debug\MainForm.exe.CodeAnalysisLog.xml
+E:\Recent\大创\Kinect-Mouse\MainForm\bin\Debug\MainForm.exe.lastcodeanalysissucceeded

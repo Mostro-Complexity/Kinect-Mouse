@@ -52,3 +52,16 @@ F:\大创\Kinect-Mouse\GestureCatcher\bin\Debug\MousePanel.exe.config
 F:\大创\Kinect-Mouse\GestureCatcher\bin\Debug\Canvas2D.pdb
 F:\大创\Kinect-Mouse\GestureCatcher\bin\Debug\Commons.pdb
 F:\大创\Kinect-Mouse\GestureCatcher\bin\Debug\Canvas3D.pdb
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\MousePanel.exe
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\Canvas2D.dll
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\Commons.dll
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\OpenTK.dll
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\Canvas3D.dll
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\OpenTK.GLControl.dll
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\OpenTK.Compatibility.dll
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\MousePanel.pdb
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\MousePanel.exe.config
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\Canvas2D.pdb
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\Commons.pdb
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\GestureCatcher.exe.CodeAnalysisLog.xml
+E:\Recent\大创\Kinect-Mouse\GestureCatcher\bin\Debug\GestureCatcher.exe.lastcodeanalysissucceeded
